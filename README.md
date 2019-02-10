@@ -9,3 +9,7 @@ _Required Tasks_:
 _Implementation Guide_:
 * The Popular Movies assessment implementation guide can be found [here|Popular Movies App Implementation Guide].
 
+_Important Note_:
+To run this app, you will need to add your own API key in:
+/app/src/main/res/values/secrets.xml
+
